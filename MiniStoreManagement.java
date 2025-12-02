@@ -61,7 +61,7 @@ public class MiniStoreManagement {
 		
 		
 		case 3: //receipt in text file
-			System.out.print("To view mini stoore summary, refer to text file MiniStore. \n");
+			System.out.print("To view mini store summary, refer to text file MiniStore. \n");
 			
 			
 			try {
@@ -168,4 +168,5 @@ public class MiniStoreManagement {
 	
 	
 }
+
 
