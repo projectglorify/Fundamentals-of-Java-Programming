@@ -118,7 +118,7 @@ public class MiniStoreManagement {
 	sc.close();
 	
 	
-	}
+	} //main method closing bracket
 	
 	
 	
@@ -168,3 +168,4 @@ public class MiniStoreManagement {
 	
 	
 }
+
