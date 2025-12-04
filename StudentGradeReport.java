@@ -66,8 +66,8 @@ public class StudentGradeReport {
 			pw.println("\n");
 			double failed = names.length - passed;
 			
-			pw.println("Passed: " + passed);
-			pw.println("Failed: " + failed);
+			pw.println("Passed: " + (int) passed);
+			pw.println("Failed: " + (int) failed);
 			
 			
 			
@@ -97,3 +97,4 @@ public class StudentGradeReport {
 	
 
 }
+
