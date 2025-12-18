@@ -86,7 +86,7 @@ public class ElectricityConsumptonandBilling {
 			
 			
 	String bill = String.format
-			("Household: %s \nConsumption: %.2f kWh \nCategory: %s \nOriginal Bill: \u20B1%.2f \nDiscounted Bill: \u20B1in%.2f \n\n",
+			("Household: %s \nConsumption: %.2f kWh \nCategory: %s \nOriginal Bill: \u20B1%.2f \nDiscounted Bill: \u20B1%.2f \n\n",
 				householdNames[i], consumption[i], category, totalbill, discountedbill);
 	
 	System.out.print(bill);
@@ -132,3 +132,4 @@ public class ElectricityConsumptonandBilling {
 	}
 
 }
+
