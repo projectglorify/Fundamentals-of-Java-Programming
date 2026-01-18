@@ -13,6 +13,7 @@
  - Variables, data types, and operators
  - Control flow (if-else, switch-case, loops)
  - Methods
+ - File Handling (write)
  - Arrays and Strings
  - Basic input/output (scanner, print to console)
 
